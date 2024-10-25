@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\bin\Debug\netstandard2.0\Examen-DDA.deps.json
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\bin\Debug\netstandard2.0\Examen-DDA.dll
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\bin\Debug\netstandard2.0\ref\Examen-DDA.dll
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\bin\Debug\netstandard2.0\Examen-DDA.pdb
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.dll
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\refint\Examen-DDA.dll
+C:\Users\nicol\source\repos\Examen-DDA\Examen-DDA\Examen-DDA\obj\Debug\netstandard2.0\Examen-DDA.pdb
